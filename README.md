@@ -40,11 +40,12 @@ java -jar target/github-user-activity-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ### 📌 Configuration
 
-To use this application, you may need to configure your GitHub API token. Update the `config.properties` file or pass it as an argument:
+To use this application, you may need to configure your GitHub API token. Create a .env file in the root of the project and add your GitHub personal access token like this:
 
 ```bash
-java -jar target/github-user-activity-1.0-SNAPSHOT-jar-with-dependencies.jar --token=YOUR_GITHUB_TOKEN
+GITHUB_TOKEN=your_personal_access_token_here
 ```
+> **_NOTE:_** Be sure to keep your .env file private and do not push it to GitHub. It should be added to .gitignore to ensure it is not committed to the repository.
 
 ### 📌 Example Commands:
 
