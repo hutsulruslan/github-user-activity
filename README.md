@@ -8,7 +8,7 @@ GitHub User Activity is a Java-based application that fetches and analyzes GitHu
 
 ✅ **Fetch User Activity** — Retrieve GitHub user data via API.  
 🚧 **Analyze Contributions** — Work in progress: developing insights into commits, repositories, and languages.  
-🚧 **Generate Reports** — Work in progress: exporting user activity details in a structured format. 
+🚧 **Generate Reports** — Work in progress: exporting user activity details in a structured format.   
 ✅ **Easy Configuration** — Configure API keys and settings easily.
 
 ## 📥 Installation
